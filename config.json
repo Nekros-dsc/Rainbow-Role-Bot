@@ -1,0 +1,6 @@
+{
+    "token": "Put-Token-Here",
+    "server": "Server-Id",
+    "role": "Role-Id",
+    "interval": "10000"
+}
